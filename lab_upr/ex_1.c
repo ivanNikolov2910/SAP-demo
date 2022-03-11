@@ -29,7 +29,8 @@ int main()
         printf("%.2f\n", i * i - 4);
     }
 
-    // comment for new_ver
-    // round 2
+    // made new branch from here
+
+    printf("Hello world!\n");
     return 0;
 }
