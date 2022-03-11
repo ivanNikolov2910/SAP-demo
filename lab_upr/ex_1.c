@@ -32,5 +32,6 @@ int main()
     // made new branch from here
 
     printf("Hello world!\n");
+    // merge new_ver
     return 0;
 }
