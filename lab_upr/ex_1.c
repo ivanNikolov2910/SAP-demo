@@ -29,5 +29,6 @@ int main()
         printf("%.2f\n", i * i - 4);
     }
 
+    // comment for new_ver
     return 0;
 }
